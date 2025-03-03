@@ -1,1 +1,5 @@
-print("jambo tanzania")
+print("jambo tanzania
+      ")
+      print("clone
+")
+print("clone")
